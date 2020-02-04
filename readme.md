@@ -11,3 +11,5 @@ how to run :
 ```
 node index.js --auto_swipe true
 ```
+
+Video https://youtu.be/unhudxswVEo
