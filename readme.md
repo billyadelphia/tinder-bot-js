@@ -1,4 +1,4 @@
-- download chromedriver, unzip, move to /usr/local/bin (mac os / linux)
+- download [chromedriver](https://chromedriver.chromium.org/), unzip, move to /usr/local/bin (mac os / linux)
 - rename secrets.example.js to secrets.js and add your facebook login there.
 
 
